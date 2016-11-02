@@ -7,7 +7,7 @@
 [Trim Polyfill](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/Trim)
 
 
-[Trim Polyfill](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/Trim)
+[HTML5 tips：深入了解Polyfills](http://blog.csdn.net/wang16510/article/details/8960312)
 
 ```js
 if (!String.prototype.trim) {
