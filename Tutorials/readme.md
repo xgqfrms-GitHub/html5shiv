@@ -1,9 +1,10 @@
-# HTML5 Shim vs. Shiv
+# HTML5 Shim vs. Shiv (一样的)
 
-```html
-<a href="http://stackoverflow.com/questions/14429061/html5-shim-vs-shiv">HTML5 Shim vs. Shiv</a>
-``` 
+[HTML5 Shim vs. Shiv](http://stackoverflow.com/questions/14429061/html5-shim-vs-shiv)
 
+[HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)
+
+[Trim Polyfill](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/Trim)
 
 
 [Trim Polyfill](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/Trim)
